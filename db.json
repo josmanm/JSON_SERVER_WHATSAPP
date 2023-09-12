@@ -108,29 +108,29 @@
       "conversaciones": [
         {
           "sendBy": 1,
-          "date": "31/8/2023",
-          "hour": "10:10",
+          "date": "2023-08-10T07:30:39.179-05:00",
+          "hour": "2023-08-10T07:30:39.179-05:00",
           "message": "Hola, como estas?",
           "flag": false
         },
         {
           "sendBy": 2,
-          "date": "31/8/2023",
-          "hour": "10:13",
+          "date": "2023-08-10T08:42:39.179-05:00",
+          "hour": "2023-08-10T08:42:39.179-05:00",
           "message": "Bien y tu ¿como vas?",
           "flag": false
         },
         {
           "sendBy": 1,
-          "date": "3/9/2023",
-          "hour": "8:05:30 p. m.",
+          "date": "2023-08-10T09:15:39.179-05:00",
+          "hour": "2023-08-10T09:15:39.179-05:00",
           "message": "Bien, gracias, me estabas llamando?",
           "flag": false
         },
         {
           "sendBy": 2,
-          "date": "2023-08-12T07:30:39.179-05:00",
-          "hour": "2023-08-12T00:30:39.179-05:00",
+          "date": "2023-08-10T09:49:39.179-05:00",
+          "hour": "2023-08-10T09:49:39.179-05:00",
           "message": "Si, era para ver si me podias dar unas clases de programación",
           "flag": false
         }
@@ -145,14 +145,14 @@
         {
           "sendBy": 1,
           "date": "2023-07-11T07:30:39.179-05:00",
-          "hour": "2023-08-12T08:30:39.179-05:00",
+          "hour": "2023-07-11T07:30:39.179-05:00",
           "message": "Hola, como estas?",
           "flag": false
         },
         {
           "sendBy": 2,
-          "date": "2023-07-11T07:30:39.179-05:00",
-          "hour": "2023-08-12T08:30:39.179-05:00",
+          "date": "2023-07-11T08:30:39.179-05:00",
+          "hour": "2023-07-11T08:30:39.179-05:00",
           "message": "Bien y tu?",
           "flag": false
         }
@@ -164,8 +164,8 @@
       "conversaciones": [
         {
           "sendBy": 2,
-          "date": "30/8/2023",
-          "hour": "2:43 p. m.",
+          "date": "2023-08-12T13:30:39.179-05:00",
+          "hour": "2023-08-12T13:30:39.179-05:00",
           "message": "Hola, como estas?",
           "flag": false
         },
@@ -178,8 +178,8 @@
         },
         {
           "sendBy": 1,
-          "date": "2023-07-10T07:30:39.179-05:00",
-          "hour": "2023-08-10T08:30:39.179-05:00",
+          "date": "2023-08-12T13:40:39.179-05:00",
+          "hour": "2023-08-12T13:40:39.179-05:00",
           "message": "Bien pc que hay para hacer? toca salir",
           "flag": false
         }
@@ -192,43 +192,43 @@
       "conversaciones": [
         {
           "sendBy": 1,
-          "date": "31/8/2023",
-          "hour": "2:29 p. m.",
+          "date": "2023-05-12T01:30:39.179-05:00",
+          "hour": "2023-05-12T01:30:39.179-05:00",
           "message": "Bien o no?",
           "flag": false
         },
         {
           "sendBy": 2,
-          "date": "31/8/2023",
-          "hour": "2:35 p. m.",
+          "date": "2023-05-13T02:31:39.179-05:00",
+          "hour": "2023-05-13T02:31:39.179-05:00",
           "message": "Bien, bien y voz, que haces?",
           "flag": false
         },
         {
           "sendBy": 1,
-          "date": "31/8/2023",
-          "hour": "2:46 p. m.",
+          "date": "2023-05-14T03:32:39.179-05:00",
+          "hour": "2023-05-14T03:32:39.179-05:00",
           "message": "Bien, no nada, estaba viendo que sacaste un nuevo carro",
           "flag": false
         },
         {
           "sendBy": 2,
-          "date": "4/9/2023",
-          "hour": "11:14:10 a. m.",
+          "date": "2023-05-15T04:33:39.179-05:00",
+          "hour": "2023-05-15T04:33:39.179-05:00",
           "message": "Si pc, queres ir a dar una vuelta y lo ensayas?",
           "flag": false
         },
         {
           "sendBy": "2",
-          "date": "5/9/2023",
-          "hour": "7:41:10 p. m.",
+          "date": "2023-05-15T05:34:39.179-05:00",
+          "hour": "2023-05-15T05:34:39.179-05:00",
           "message": "Tu me diras",
           "flag": false
         },
         {
           "sendBy": "1",
-          "date": "2023-07-11T00:30:39.179-05:00",
-          "hour": "2023-07-11T05:30:39.179-05:00",
+          "date": "2023-07-11T00:35:39.179-05:00",
+          "hour": "2023-07-11T05:35:39.179-05:00",
           "message": "Listo, pasa por mi en 30 min ",
           "flag": false
         }
@@ -241,43 +241,43 @@
       "conversaciones": [
         {
           "sendBy": 2,
-          "date": "31/8/2023",
-          "hour": "2:29 p. m.",
+          "date": "2023-08-11T05:35:39.179-05:00",
+          "hour": "2023-08-11T05:35:39.179-05:00",
           "message": "Como vas, necesito tu ayuda urgente",
           "flag": false
         },
         {
           "sendBy": 2,
-          "date": "31/8/2023",
-          "hour": "2:35 p. m.",
+          "date": "2023-08-11T06:39:39.179-05:00",
+          "hour": "2023-08-11T06:39:39.179-05:00",
           "message": "Estas ocupado?",
           "flag": false
         },
         {
           "sendBy": 1,
-          "date": "4/9/2023",
-          "hour": "3:00 p. m..",
+          "date": "2023-08-11T06:43:43.179-05:00",
+          "hour": "2023-08-11T06:43:43.179-05:00",
           "message": "No contame que paso?",
           "flag": false
         },
         {
           "sendBy": 2,
-          "date": "31/8/2023",
-          "hour": "3:46 p. m.",
+          "date": "2023-08-11T06:48:43.179-05:00",
+          "hour": "2023-08-11T06:48:43.179-05:00",
           "message": "Se me volvio a caer facebook y no se como arreglarlo, ayudame",
           "flag": false
         },
         {
           "sendBy": 1,
-          "date": "31/8/2023",
-          "hour": "4:40 p. m.",
+          "date": "2023-08-11T06:50:43.179-05:00",
+          "hour": "2023-08-11T06:50:43.179-05:00",
           "message": "Listo",
           "flag": false
         },
         {
           "sendBy": 1,
-          "date": "2023-06-10T00:30:39.179-05:00",
-          "hour": "2023-06-10T00:30:39.179-05:00",
+          "date": "2023-08-11T06:55:43.179-05:00",
+          "hour": "2023-08-11T06:55:43.179-05:00",
           "message": "Te faltaba un punto y coma ; ✌",
           "flag": false
         }
@@ -290,57 +290,57 @@
       "conversaciones": [
         {
           "sendBy": 1,
-          "date": "31/8/2023",
-          "hour": "2:29 p. m.",
+          "date": "2023-08-11T06:48:43.179-05:00",
+          "hour": "2023-08-11T06:48:43.179-05:00",
           "message": "Perdona, pero tienes la sonrisa más bonita que he visto por aquí.",
           "flag": false
         },
         {
           "sendBy": 2,
-          "date": "31/8/2023",
-          "hour": "2:35 p. m.",
+          "date": "2023-08-11T07:50:43.179-05:00",
+          "hour": "2023-08-11T07:50:43.179-05:00",
           "message": " JAJAJJAJAAJ, que favor necesitas",
           "flag": false
         },
         {
           "sendBy": 1,
-          "date": "31/8/2023",
-          "hour": "2:46 p. m.",
+          "date": "2023-08-11T07:51:43.179-05:00",
+          "hour": "2023-08-11T07:51:43.179-05:00",
           "message": "Uish, uno ya no puede solucionar, porque piensan que es pa un favor ( ͡❛ . ͡❛)",
           "flag": false
         },
         {
           "sendBy": 2,
-          "date": "4/9/2023",
-          "hour": "2:50 p. m.",
+          "date": "2023-08-11T07:53:43.179-05:00",
+          "hour": "2023-08-11T07:53:43.179-05:00",
           "message": "Si como no, dime pa que soy buena",
           "flag": false
         },
         {
           "sendBy": 1,
-          "date": "4/9/2023",
-          "hour": "2:56 p. m.",
+          "date": "2023-08-11T07:54:43.179-05:00",
+          "hour": "2023-08-11T07:54:43.179-05:00",
           "message": "Tú pa muchas cosas, pero en especial, pa que me cubras en clase ",
           "flag": false
         },
         {
           "sendBy": 1,
-          "date": "4/9/2023",
-          "hour": "3:06 p. m.",
+          "date": "2023-08-11T07:56:43.179-05:00",
+          "hour": "2023-08-11T07:56:43.179-05:00",
           "message": "No puedo ir :(",
           "flag": false
         },
         {
           "sendBy": 2,
-          "date": "4/9/2023",
-          "hour": "3:08 p. m.",
+          "date": "2023-08-11T07:59:43.179-05:00",
+          "hour": "2023-08-11T07:59:43.179-05:00",
           "message": "Lo sabia, tanta amabilidad no es de gratis",
           "flag": false
         },
         {
           "sendBy": 1,
-          "date": "2023-07-10T00:30:39.179-05:00",
-          "hour": "2023-07-10T00:30:39.179-05:00",
+          "date": "2023-08-11T08:03:43.179-05:00",
+          "hour": "2023-08-11T08:03:43.179-05:00",
           "message": "Eres la mejor t(❛̀ ● ́❛t)",
           "flag": false
         }
@@ -353,22 +353,22 @@
       "conversaciones": [
         {
           "sendBy": 1,
-          "date": "31/8/2023",
-          "hour": "2:29 p. m.",
+          "date": "2023-07-10T01:30:39.179-05:00",
+          "hour": "2023-07-10T01:30:39.179-05:00",
           "message": "Oe perro, como estas?",
           "flag": false
         },
         {
           "sendBy": 2,
-          "date": "31/8/2023",
-          "hour": "2:35 p. m.",
+          "date": "2023-07-10T02:30:39.179-05:00",
+          "hour": "2023-07-10T02:30:39.179-05:00",
           "message": "Me dejaste tirado en la fiesta ",
           "flag": false
         },
         {
           "sendBy": 2,
-          "date": "2023-07-10T00:30:39.179-05:00",
-          "hour": "2023-07-10T00:30:39.179-05:00",
+          "date": "2023-07-10T03:30:39.179-05:00",
+          "hour": "2023-07-10T03:30:39.179-05:00",
           "message": "(ง︡'-'︠)ง",
           "flag": false
         }
@@ -381,8 +381,8 @@
       "conversaciones": [
         {
           "sendBy": 1,
-          "date": "31/8/2023",
-          "hour": "2:29 p. m.",
+          "date": "2023-07-11T00:20:39.179-05:00",
+          "hour": "2023-07-11T00:20:39.179-05:00",
           "message": "Bien o no ñero?",
           "flag": false
         },
@@ -402,57 +402,57 @@
       "conversaciones": [
         {
           "sendBy": 1,
-          "date": "31/8/2023",
-          "hour": "2:29 p. m.",
+          "date": "2023-09-11T11:30:39.179-05:00",
+          "hour": "2023-09-11T11:30:39.179-05:00",
           "message": "Doña Melissa?",
           "flag": false
         },
         {
           "sendBy": 2,
-          "date": "31/8/2023",
-          "hour": "2:35 p. m.",
+          "date": "2023-09-11T11:31:39.179-05:00",
+          "hour": "2023-09-11T11:31:39.179-05:00",
           "message": "Como vas?",
           "flag": false
         },
         {
           "sendBy": 1,
-          "date": "31/8/2023",
-          "hour": "2:46 p. m.",
+          "date": "2023-09-11T11:32:39.179-05:00",
+          "hour": "2023-09-11T11:32:39.179-05:00",
           "message": "No tan bien como tu, pero hay vamos, que haces",
           "flag": false
         },
         {
           "sendBy": 2,
-          "date": "4/9/2023",
-          "hour": "2:60:07 p. m.",
+          "date": "2023-09-11T11:33:39.179-05:00",
+          "hour": "2023-09-11T11:33:39.179-05:00",
           "message": "Nada y tu",
           "flag": false
         },
         {
-          "sendBy": "1",
-          "date": "5/9/2023",
-          "hour": "3:16 p. m.",
+          "sendBy": 1,
+          "date": "2023-09-11T11:34:39.179-05:00",
+          "hour": "2023-09-11T11:34:39.179-05:00",
           "message": "Nada, quieres ir a comer?",
           "flag": false
         },
         {
-          "sendBy": "2",
-          "date": "5/9/2023",
-          "hour": "3:18 p. m.",
+          "sendBy": 2,
+          "date": "2023-09-11T11:38:39.179-05:00",
+          "hour": "2023-09-11T11:38:39.179-05:00",
           "message": "Que se va a gastar pues?",
           "flag": false
         },
         {
-          "sendBy": "1",
-          "date": "5/9/2023",
-          "hour": "3:26 p. m.",
+          "sendBy": 1,
+          "date": "2023-09-11T11:40:39.179-05:00",
+          "hour": "2023-09-11T11:40:39.179-05:00",
           "message": "Lo que quiera, aproveche ✌",
           "flag": false
         },
         {
-          "sendBy": "2",
-          "date": "2023-06-12T00:30:39.179-05:00",
-          "hour": "2023-06-12T00:30:39.179-05:00",
+          "sendBy": 2,
+          "date": "2023-09-11T11:42:39.179-05:00",
+          "hour": "2023-09-11T11:42:39.179-05:00",
           "message": "(⊙.⊙) De una pase por mi en 5 ",
           "flag": false
         }
@@ -465,57 +465,57 @@
       "conversaciones": [
         {
           "sendBy": 1,
-          "date": "31/8/2023",
-          "hour": "2:29 p. m.",
+          "date": "2023-09-12T07:40:39.179-05:00",
+          "hour": "2023-09-12T07:40:39.179-05:00",
           "message": "Doña Melissa?",
           "flag": false
         },
         {
           "sendBy": 2,
-          "date": "31/8/2023",
-          "hour": "2:35 p. m.",
+          "date": "2023-09-12T07:41:39.179-05:00",
+          "hour": "2023-09-12T07:41:39.179-05:00",
           "message": "Como vas?",
           "flag": false
         },
         {
           "sendBy": 1,
-          "date": "31/8/2023",
-          "hour": "2:46 p. m.",
+          "date": "2023-09-12T07:42:39.179-05:00",
+          "hour": "2023-09-12T07:42:39.179-05:00",
           "message": "No tan bien como tu, pero hay vamos, que haces",
           "flag": false
         },
         {
           "sendBy": 2,
-          "date": "4/9/2023",
-          "hour": "2:60:07 p. m.",
+          "date": "2023-09-12T07:43:39.179-05:00",
+          "hour": "2023-09-12T07:43:39.179-05:00",
           "message": "Nada y tu",
           "flag": false
         },
         {
           "sendBy": "1",
-          "date": "5/9/2023",
-          "hour": "3:16 p. m.",
+          "date": "2023-09-12T07:44:39.179-05:00",
+          "hour": "2023-09-12T07:44:39.179-05:00",
           "message": "Nada, quieres ir a comer?",
           "flag": false
         },
         {
-          "sendBy": "2",
-          "date": "5/9/2023",
-          "hour": "3:18 p. m.",
+          "sendBy": 2,
+          "date": "2023-09-12T07:45:39.179-05:00",
+          "hour": "2023-09-12T07:45:39.179-05:00",
           "message": "Que se va a gastar pues?",
           "flag": false
         },
         {
-          "sendBy": "1",
-          "date": "5/9/2023",
-          "hour": "3:26 p. m.",
+          "sendBy": 1,
+          "date": "2023-09-12T07:46:39.179-05:00",
+          "hour": "2023-09-12T07:46:39.179-05:00",
           "message": "Lo que quiera, aproveche ✌",
           "flag": false
         },
         {
           "sendBy": 2,
-          "date": "2023-06-12T00:30:39.179-05:00",
-          "hour": "2023-06-12T00:30:39.179-05:00",
+          "date": "2023-09-12T07:48:39.179-05:00",
+          "hour": "2023-09-12T07:48:39.179-05:00",
           "message": "(⊙.⊙) De una pase por mi en 5 ",
           "flag": false
         }
