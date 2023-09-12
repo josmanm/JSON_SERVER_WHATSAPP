@@ -130,7 +130,7 @@
         {
           "sendBy": 2,
           "date": "4/9/2023",
-          "hour": "12:33:07 a. m",
+          "hour": "12:33:07 am",
           "message": "Si, era para ver si me podias dar unas clases de programación",
           "flag": false
         }
@@ -152,7 +152,7 @@
         {
           "sendBy": 2,
           "date": "31/8/2023",
-          "hour": "2:45 p. m",
+          "hour": "2:45 pm",
           "message": "Bien y tu?",
           "flag": false
         }
@@ -179,7 +179,7 @@
         {
           "sendBy": 1,
           "date": "9/9/2023",
-          "hour": "10:33:07 a. m",
+          "hour": "10:33:07 am",
           "message": "Bien pc que hay para hacer? toca salir",
           "flag": false
         }
@@ -200,7 +200,7 @@
         {
           "sendBy": 2,
           "date": "31/8/2023",
-          "hour": "2:35 p. m.",
+          "hour": "2:35 pm.",
           "message": "Bien, bien y voz, que haces?",
           "flag": false
         },
@@ -228,7 +228,7 @@
         {
           "sendBy": "1",
           "date": "5/9/2023",
-          "hour": "7:41:30 p. m",
+          "hour": "7:41:30 pm",
           "message": "Listo, pasa por mi en 30 min ",
           "flag": false
         }
@@ -277,7 +277,7 @@
         {
           "sendBy": 1,
           "date": "9/9/2023",
-          "hour": "11:33:07 a. m",
+          "hour": "11:33:07 am",
           "message": "Te faltaba un punto y coma ; ✌",
           "flag": false
         }
@@ -340,7 +340,7 @@
         {
           "sendBy": 1,
           "date": "4/9/2023",
-          "hour": "10:23:07 a. m",
+          "hour": "10:23:07 am",
           "message": "Eres la mejor t(❛̀ ● ́❛t)",
           "flag": false
         }
@@ -368,7 +368,7 @@
         {
           "sendBy": 2,
           "date": "31/8/2023",
-          "hour": "2:46 p. m",
+          "hour": "2:46 pm",
           "message": "(ง︡'-'︠)ง",
           "flag": false
         }
@@ -452,7 +452,7 @@
         {
           "sendBy": "2",
           "date": "5/9/2023",
-          "hour": "10:03:07 a. m",
+          "hour": "10:03:07 am",
           "message": "(⊙.⊙) De una pase por mi en 5 ",
           "flag": false
         }
